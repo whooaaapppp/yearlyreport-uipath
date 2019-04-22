@@ -1,5 +1,5 @@
 {
-  "name": "GenerateYearlyReportVendor",
+  "name": "GenerateYearlyReportVendorDispatcher",
   "description": "REFramework Implementation for downloading all month reports for a specific vendor and generating a yearly report",
   "main": "Main.xaml",
   "dependencies": {
